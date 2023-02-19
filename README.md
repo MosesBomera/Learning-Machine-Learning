@@ -5,5 +5,5 @@ A catalogue of notebooks from machine learning textbooks that I have (and I am c
 ## Books
 Year of Reading | Title
 --- | ---
-2023 | Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili -  Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python 
-2022 | Magnus Magnus Ekman - Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow
+2023 | [Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili -  Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](./machine_learning_with_pytorch_and_scikit_learn)
+2022 | [Magnus Magnus Ekman - Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow](./learning_deep_learning)
