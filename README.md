@@ -1,6 +1,6 @@
 # Learning Machine Learning
 
-A catalogue of notebooks from machine learning textbooks that I have (and i am currently) reading on the learning and exploration journey of the theory and practice of classical machine learning and deep learning algorithms.
+A catalogue of notebooks from machine learning textbooks that I have (and I am currently) reading on the learning and exploration journey of the theory and practice of classical machine learning and deep learning algorithms.
 
 ## Books
 Year of Reading | Title
