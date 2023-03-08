@@ -5,5 +5,6 @@ A catalogue of my study notebooks from machine learning textbooks that I have re
 ## Books
 Year of Reading | Title
 --- | ---
+2023 | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](./handson-ml3)
 2023 | [Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili -  Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](./machine_learning_with_pytorch_and_scikit_learn)
 2021 | [Magnus Ekman - Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow](./learning_deep_learning)
