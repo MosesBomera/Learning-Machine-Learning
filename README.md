@@ -5,6 +5,7 @@ A catalogue of my study notebooks from machine learning textbooks and tutorials 
 ## Books/Tutorials
 Year of Reading | Title
 --- | ---
+2024 | [Emmanuel Ameisen - Building Machine Learning Powered Applications: Going from Idea to Product](./BMLPA/)
 2024 | [Andrej Karpathy - Neural Networks: Zero to Hero](./AKNNZ2H/)
 2023 | [Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](./HOMLwSLKT)
 2023 | [Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili -  Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](./MLwPS)
